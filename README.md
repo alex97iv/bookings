@@ -1,2 +1,2 @@
 # bookings-db
-Contains scripts for bookings database
+Contains problem solving scripts for bookings database
