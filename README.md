@@ -4,4 +4,4 @@ Problem solving scripts for [bookings database](https://github.com/alex97iv/book
 [Flyaway](https://flywaydb.org/) is used for migrations control. <br>
 # problems solving <br>
 *Problem:* написать функцию для клиентского приложения, возвращающую список доступных авиарейсов в указанном интервале дат. <br>
-*Solution:* [V1_migration](./sql/V1__available_flights_func.sql) <br>
+*Solution:* [V1__create_available_flights_f](./migrations/V1__create_available_flights_f.pgsql) <br>
